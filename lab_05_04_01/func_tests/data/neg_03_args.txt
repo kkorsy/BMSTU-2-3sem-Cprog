@@ -1,0 +1,1 @@
+fb ../data/abc.txt out.txt aaa

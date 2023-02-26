@@ -1,0 +1,1 @@
+./func_tests/data/file_in_5.txt insert ./out/05_out.txt ./func_tests/data/insert_5.txt

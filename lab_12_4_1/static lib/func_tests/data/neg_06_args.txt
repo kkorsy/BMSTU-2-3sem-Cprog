@@ -1,0 +1,1 @@
+./func_tests/data/neg_6.txt ./out/out.txt f

@@ -1,0 +1,10 @@
+reset
+set terminal wxt size 1920, 1080 position 0, 0
+set xlabel 'Number of elements'
+set ylabel 'Time, ns'
+set grid
+set terminal wxt 1
+set key left top
+set output 'pic.svg'
+plot 'mysort.txt' with linespoints pt 1 title 'mysort', \
+'qsort.txt' with linespoints pt 2 title 'qsort', \

@@ -1,0 +1,3 @@
+Result: abc no
+ab yes
+a no

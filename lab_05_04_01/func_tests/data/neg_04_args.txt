@@ -1,0 +1,1 @@
+fb ../data/empty.txt out.txt aaa

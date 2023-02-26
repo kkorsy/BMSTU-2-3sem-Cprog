@@ -1,0 +1,1 @@
+./func_tests/data/file_8.txt ./out/08_out.txt f

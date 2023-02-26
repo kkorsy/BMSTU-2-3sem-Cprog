@@ -1,0 +1,1 @@
+a ./func_tests/data/file_4_a.txt ./func_tests/data/file_4_b.txt ./out/04_out.txt

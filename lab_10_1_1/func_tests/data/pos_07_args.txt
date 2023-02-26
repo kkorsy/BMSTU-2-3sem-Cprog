@@ -1,0 +1,1 @@
+./func_tests/data/file_in_7.txt sort ./out/07_out.txt

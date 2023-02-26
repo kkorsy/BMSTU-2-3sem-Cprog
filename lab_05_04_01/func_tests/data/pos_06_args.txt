@@ -1,0 +1,1 @@
+fb ../data/pos_06_in.txt 06_out.txt a

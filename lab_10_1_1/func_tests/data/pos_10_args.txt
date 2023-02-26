@@ -1,0 +1,1 @@
+./func_tests/data/file_in_10.txt remove ./out/10_out.txt

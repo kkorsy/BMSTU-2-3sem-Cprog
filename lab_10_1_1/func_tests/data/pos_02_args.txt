@@ -1,0 +1,1 @@
+./func_tests/data/file_in_2.txt pop ./out/02_out.txt
